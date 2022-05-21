@@ -13,13 +13,13 @@ You can find me on ...
 
 <p align="center">
 	<a href="https://twitter.com/Luk5Ollarce"><img width="50px" alt="Twitter" title="Twitter" src="https://gogeticons.com/frontend/web/icons/data/1/6/5/8/8/1/app_logo_media_popular_social_twitter_icon_512.png"></a>
-	&#8287; &#8287; &#8287; &#8287; &#8287;
+	&#8287; &#8287; &#8287;
 	<a href="https://instagram.com/ollyxss"><img width="50px" alt="Instagram" title="Instagram" src="https://gogeticons.com/frontend/web/icons/data/1/6/3/8/8/5/app_instagram_logo_media_popular_social_icon_512.png"></a>
-	&#8287; &#8287; &#8287; &#8287; &#8287;
+	&#8287; &#8287; &#8287;
 	<a href="https://www.youtube.com/c/Ollyxs"><img width="50px" alt="YouTube" title="YouTube" src="https://gogeticons.com/frontend/web/icons/data/1/6/4/7/9/5/app_logo_media_popular_social_youtube_icon_512.png"></a>
-	&#8287; &#8287; &#8287; &#8287; &#8287;
+	&#8287; &#8287; &#8287;
 	<a href="https://steamcommunity.com/id/Ollyxs/"><img width="50px" alt="Steam" title="Steam" src="https://gogeticons.com/frontend/web/icons/data/1/9/9/5/9/1/games_gaming_steam_icon_512.png"></a>
-	&#8287; &#8287; &#8287; &#8287; &#8287;
+	&#8287; &#8287; &#8287;
 	<a href="https://discordapp.com/users/366099775218515981"><img width="50px" alt="Discord" title="Discord" src="https://gogeticons.com/frontend/web/icons/data/2/0/0/6/2/7/circle_discord_gaming_messenger_round%20icon_icon_512.png"></a>
 </p>
 
