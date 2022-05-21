@@ -1,7 +1,7 @@
 <!-- ## Hi, I'm Ollyxs -->
-<div style="text-align: center">
+<p align="center">
 	<img src="https://raw.githubusercontent.com/Ollyxs/ollyxs/main/name.gif"/>
-</div>
+</p>
 
 ## Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
