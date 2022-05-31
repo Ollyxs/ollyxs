@@ -131,6 +131,16 @@ You can find me on ...
 <!-- <details>
 <summary> Wakatime </summary> -->
 <!--START_SECTION:waka-->
+
+```text
+Markdown         2 hrs 15 mins   ███████████▓░░░░░░░░░░░░░   46.36 %
+Java             1 hr 33 mins    ████████░░░░░░░░░░░░░░░░░   31.96 %
+Python           21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+XML              18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+VimL             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Properties       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- </details> -->
