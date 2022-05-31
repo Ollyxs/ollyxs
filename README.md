@@ -131,7 +131,6 @@ You can find me on ...
 <!-- <details>
 <summary> Wakatime </summary> -->
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <!-- </details> -->
