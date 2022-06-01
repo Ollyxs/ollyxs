@@ -190,7 +190,6 @@ Linux                    4 hrs 51 mins       ███████████�
 </a>
 </br>
 <img src="https://komarev.com/ghpvc/?username=ollyxs&style=for-the-badge"/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=ollyxs&left_color=grey&right_color=blue"/>
 </p>
 
 
