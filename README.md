@@ -101,7 +101,7 @@ You can find me on ...
 <img alt="Zsh" src="https://img.shields.io/badge/zsh-green?&style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-## 📊 GitHub stats
+## 📊 Stats
 
 <details>
 <summary>💻 GitHub Profile Stats</summary>
@@ -122,14 +122,15 @@ You can find me on ...
 	<img title="Profile details" alt="Ollyxs's profile details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ollyxs&theme=radical"/>
 </a> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img title="Readme Stats" alt="Ollyxs's stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ollyxs"/>
-</a>
+</a> -->
 </p>
 </details>
 
-<!-- <details>
-<summary> Wakatime </summary> -->
+<details>
+<summary>📈 Wakatime </summary>
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -181,12 +182,15 @@ Linux                    4 hrs 51 mins       ███████████�
  Last Updated on 31/05/2022 18:51:43 UTC
 <!--END_SECTION:waka-->
 
-<!-- </details> -->
+</details>
 <p align="center">
 <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 	<img title="Activity Graph" alt="Ollyxs's activity" src="https://activity-graph.herokuapp.com/graph?username=Ollyxs&theme=redical&hide_border=true"/>
 </a>
+</br>
+<img src="https://komarev.com/ghpvc/?username=ollyxs&style=for-the-badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=ollyxs&left_color=grey&right_color=blue"/>
 </p>
 
 
