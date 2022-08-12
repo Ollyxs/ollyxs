@@ -161,18 +161,19 @@ Sunday       18 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 10 mins             ████████████████░░░░░░░░░   65.95% 
+Bash                     5 mins              ████████░░░░░░░░░░░░░░░░░   34.05%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   15 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    15 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/08/2022 18:47:30 UTC
+ Last Updated on 12/08/2022 18:52:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
