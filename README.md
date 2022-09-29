@@ -161,18 +161,21 @@ Sunday       18 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 mins              ████████████░░░░░░░░░░░░░   50.48% 
+Java                     3 mins              ███████████░░░░░░░░░░░░░░   45.76% 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 28/09/2022 19:00:32 UTC
+ Last Updated on 29/09/2022 18:58:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
