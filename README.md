@@ -82,8 +82,9 @@ You can find me on ...
 <img alt="DB Browser for SQLite" src="https://custom-icon-badges.herokuapp.com/badge/db%20browser-grey?&style=for-the-badge&logo=database&logoColor=white"/>
 <!-- <img alt="Día" src="https://custom-icon-badges.herokuapp.com/badge/dia-dimgray?&style=for-the-badge&logo=dia&logoColor=white"/> -->
 <img alt="Firefox" src="https://img.shields.io/badge/firefox-FF7139?&style=for-the-badge&logo=firefox&logoColor=white"/>
-<img alt="Genymotion" src="https://custom-icon-badges.demolab.com/badge/genymotion-E6195E?&style=for-the-badge&logo=genymotion&logoColor=white"/>
+<img alt="Genymotion" src="https://custom-icon-badges.demolab.com/badge/genymotion-E6195E?&style=for-the-badge&logo=geny&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub Copilot" src="https://custom-icon-badges.demolab.com/badge/github%20copilot-292443?&style=for-the-badge&logo=copilot&logoColor=white"/>
 <img alt="GitHub Desktop" src="https://img.shields.io/badge/github%20desktop-rebeccapurple?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Gnome Boxes" src="https://custom-icon-badges.herokuapp.com/badge/gnome%20boxes-dimgray?&style=for-the-badge&logo=gnomeboxes&logoColor=white"/>
 <img alt="Insomnia" src="https://img.shields.io/badge/insomnia-4000BF?&style=for-the-badge&logo=insomnia&logoColor=white"/>
