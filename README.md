@@ -12,102 +12,100 @@ My name is Lucas Ollarce and I'm a computer science engineer student. I'm from A
 You can find me on ...
 
 <p align="center">
-	<a href="https://twitter.com/Luk5Ollarce"><img width="50px" alt="Twitter" title="Twitter" src="https://gogeticons.com/frontend/web/icons/data/1/6/5/8/8/1/app_logo_media_popular_social_twitter_icon_512.png"></a>
-	&#8287; &#8287; &#8287;
-	<a href="https://instagram.com/ollyxss"><img width="50px" alt="Instagram" title="Instagram" src="https://gogeticons.com/frontend/web/icons/data/1/6/3/8/8/5/app_instagram_logo_media_popular_social_icon_512.png"></a>
-	&#8287; &#8287; &#8287;
-	<a href="https://www.youtube.com/c/Ollyxs"><img width="50px" alt="YouTube" title="YouTube" src="https://gogeticons.com/frontend/web/icons/data/1/6/4/7/9/5/app_logo_media_popular_social_youtube_icon_512.png"></a>
-	&#8287; &#8287; &#8287;
-	<a href="https://steamcommunity.com/id/Ollyxs/"><img width="50px" alt="Steam" title="Steam" src="https://gogeticons.com/frontend/web/icons/data/1/9/9/5/9/1/games_gaming_steam_icon_512.png"></a>
-	&#8287; &#8287; &#8287;
-	<a href="https://discordapp.com/users/366099775218515981"><img width="50px" alt="Discord" title="Discord" src="https://gogeticons.com/frontend/web/icons/data/2/0/0/6/2/7/circle_discord_gaming_messenger_round%20icon_icon_512.png"></a>
+	<a href="https://twitter.com/Luk5Ollarce"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-blue?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+	<a href="https://instagram.com/ollyxss"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/instagram-FF0060?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+	<a href="https://www.youtube.com/c/Ollyxs"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/youtube-F20000?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+	<a href="https://steamcommunity.com/id/Ollyxs/"><img alt="Steam" title="Steam" src="https://img.shields.io/badge/steam-1A4769?&style=for-the-badge&logo=steam&logoColor=white"></a>
+	<a href="https://discordapp.com/users/366099775218515981"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/discord-5564DE?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 ## 🛠️ Technologies & Tools
 
 ### Lenguage skills
 <p>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Java" src="https://custom-icon-badges.demolab.com/badge/java-DE711F?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Shell Script" src="https://img.shields.io/badge/shell%20script-black?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img alt="HTML" src="https://img.shields.io/badge/html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS" src="https://img.shields.io/badge/css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Vim Script" src="https://img.shields.io/badge/vim%20script-019733?&style=for-the-badge&logo=vim&logoColor=white"/>
-<img alt="Lua" src="https://img.shields.io/badge/lua-2C2D72?&style=for-the-badge&logo=lua&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/c-A8B9CC?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?&style=for-the-badge&logo=database&logoColor=white"/>
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-skyblue?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/java-DE711F?&style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="https://www.shellscript.sh/"><img alt="Shell Script" src="https://img.shields.io/badge/shell%20script-black?&style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://www.w3.org/Style/CSS/"><img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://www.vim.org/"><img alt="Vim Script" src="https://img.shields.io/badge/vim%20script-019733?&style=for-the-badge&logo=vim&logoColor=white"/></a>
+<a href="https://www.lua.org/"><img alt="Lua" src="https://img.shields.io/badge/lua-2C2D72?&style=for-the-badge&logo=lua&logoColor=white"/></a>
+<a href="https://www.cprogramming.com/"><img alt="C" src="https://img.shields.io/badge/c-A8B9CC?&style=for-the-badge&logo=c&logoColor=white"/></a>
+<a href=""><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?&style=for-the-badge&logo=database&logoColor=white"/></a>
+<a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/markdown-skyblue?&style=for-the-badge&logo=markdown&logoColor=white"/></a>
 </p>
 
 ### OS
 <p>
-<img alt="Pop!OS" src="https://img.shields.io/badge/pop!os-48B9C7?&style=for-the-badge&logo=pop!_os&logoColor=white"/>
-<img alt="ArchLinux" src="https://img.shields.io/badge/archlinux-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white"/>
-<img alt="Kali Linux" src="https://img.shields.io/badge/kali%20linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img alt="Android" src="https://img.shields.io/badge/android-3DDC84?&style=for-the-badge&logo=android&logoColor=white"/>
+<a href="https://pop.system76.com/"><img alt="Pop!OS" src="https://img.shields.io/badge/pop!os-48B9C7?&style=for-the-badge&logo=pop!_os&logoColor=white"/></a>
+<a href="https://archlinux.org/"><img alt="ArchLinux" src="https://img.shields.io/badge/archlinux-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white"/></a>
+<a href="https://www.kali.org/"><img alt="Kali Linux" src="https://img.shields.io/badge/kali%20linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
+<a href="https://www.android.com"><img alt="Android" src="https://img.shields.io/badge/android-3DDC84?&style=for-the-badge&logo=android&logoColor=white"/></a>
 </p>
 
 ### IDEs
 <p>
-<img alt="Neovim" src="https://img.shields.io/badge/neovim-57A143?&style=for-the-badge&logo=neovim&logoColor=white"/>
-<img alt="Intellij IDEA" src="https://img.shields.io/badge/intellij-mediumorchid?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-green?&style=for-the-badge&logo=pycharm&logoColor=white"/>
-<img alt="DBeaver CE" src="https://custom-icon-badges.herokuapp.com/badge/dbeaver-sienna?&style=for-the-badge&logo=dbeaver&logoColor=white"/>
-<img alt="MySQL Workbench" src="https://img.shields.io/badge/mysql%20workbench-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Vim" src="https://img.shields.io/badge/vim-019733?&style=for-the-badge&logo=vim&logoColor=white"/>
-<img alt="VS Code" src="https://img.shields.io/badge/vs%20code-007ACC?&style=for-the-badge&logo=visualstudiocode&locoColor=white"/>
+<a href="https://neovim.io/"><img alt="Neovim" src="https://img.shields.io/badge/neovim-57A143?&style=for-the-badge&logo=neovim&logoColor=white"/></a>
+<a href="https://www.jetbrains.com/idea/"><img alt="Intellij IDEA" src="https://img.shields.io/badge/intellij-mediumorchid?&style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
+<a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-green?&style=for-the-badge&logo=pycharm&logoColor=white"/></a>
+<a href="https://dbeaver.io/"><img alt="DBeaver CE" src="https://custom-icon-badges.herokuapp.com/badge/dbeaver-sienna?&style=for-the-badge&logo=dbeaver&logoColor=white"/></a>
+<a href="https://www.mysql.com/products/workbench/"><img alt="MySQL Workbench" src="https://img.shields.io/badge/mysql%20workbench-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/vim-019733?&style=for-the-badge&logo=vim&logoColor=white"/></a>
+<a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/vs%20code-007ACC?&style=for-the-badge&logo=visualstudiocode&locoColor=white"/></a>
 </p>
 
 ### Framewokrs and libraries
 <p>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="Flask" src="https://img.shields.io/badge/flask-black?&style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white"/>
-<img alt="Numpy" src="https://img.shields.io/badge/numpy-013243?&style=for-the-badge&logo=numpy&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/jinja-B41717?&style=for-the-badge&logo=jinja&logoColor=white"/>
-<img alt="React Native" src="https://img.shields.io/badge/react%20native-61DAFB?&style=for-the-badge&logo=react&logoColor=white"/>
-<img alt="Expo" src="https://img.shields.io/badge/expo-000020?&style=for-the-badge&logo=expo&logoColor=white"/>
+<a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+<a href="https://flask.palletsprojects.com"><img alt="Flask" src="https://img.shields.io/badge/flask-black?&style=for-the-badge&logo=flask&logoColor=white"/></a>
+<a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a href="https://numpy.org/"><img alt="Numpy" src="https://img.shields.io/badge/numpy-013243?&style=for-the-badge&logo=numpy&logoColor=white"/></a>
+<a href="https://jinja.palletsprojects.com"><img alt="Jinja	" src="https://img.shields.io/badge/jinja-B41717?&style=for-the-badge&logo=jinja&logoColor=white"/></a>
+<a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/react%20native-61DAFB?&style=for-the-badge&logo=react&logoColor=white"/></a>
+<a href="https://expo.dev/"><img alt="Expo" src="https://img.shields.io/badge/expo-000020?&style=for-the-badge&logo=expo&logoColor=white"/></a>
 </p>
 
 ### Databases
 <p>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="SQLite" src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.sqlite.org"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white"/></a>
 </p>
 
 ### Sotfware and tools
 <p>
-<img alt="Anaconda" src="https://img.shields.io/badge/anaconda-44A833?&style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img alt="Brave" src="https://img.shields.io/badge/brave-FB542B?&style=for-the-badge&logo=brave&logoColor=white"/>
-<img alt="DB Browser for SQLite" src="https://custom-icon-badges.herokuapp.com/badge/db%20browser-grey?&style=for-the-badge&logo=database&logoColor=white"/>
+<a href="https://www.anaconda.com/"><img alt="Anaconda" src="https://img.shields.io/badge/anaconda-44A833?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
+<a href="https://brave.com/"><img alt="Brave" src="https://img.shields.io/badge/brave-FB542B?&style=for-the-badge&logo=brave&logoColor=white"/></a>
+<a href="https://sqlitebrowser.org/"><img alt="DB Browser for SQLite" src="https://custom-icon-badges.herokuapp.com/badge/db%20browser-grey?&style=for-the-badge&logo=database&logoColor=white"/></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker-0093d7?&style=for-the-badge&logo=docker&logoColor=white"/></a>
 <!-- <img alt="Día" src="https://custom-icon-badges.herokuapp.com/badge/dia-dimgray?&style=for-the-badge&logo=dia&logoColor=white"/> -->
-<img alt="Firefox" src="https://img.shields.io/badge/firefox-FF7139?&style=for-the-badge&logo=firefox&logoColor=white"/>
-<img alt="Genymotion" src="https://custom-icon-badges.demolab.com/badge/genymotion-E6195E?&style=for-the-badge&logo=geny&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub Copilot" src="https://custom-icon-badges.demolab.com/badge/github%20copilot-292443?&style=for-the-badge&logo=copilot&logoColor=white"/>
-<img alt="GitHub Desktop" src="https://img.shields.io/badge/github%20desktop-rebeccapurple?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Gnome Boxes" src="https://custom-icon-badges.herokuapp.com/badge/gnome%20boxes-dimgray?&style=for-the-badge&logo=gnomeboxes&logoColor=white"/>
-<img alt="Insomnia" src="https://img.shields.io/badge/insomnia-4000BF?&style=for-the-badge&logo=insomnia&logoColor=white"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/jupyter-F37626?&style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img alt="Kdenlive" src="https://img.shields.io/badge/kdenlive-527EB2?&style=for-the-badge&logo=kdenlive&logoColor=white"/>
-<img alt="KeePassXC" src="https://img.shields.io/badge/keepassxc-6CAC4D?&style=for-the-badge&logo=keepassxc&logoColor=white"/>
-<img alt="Kooha" src="https://custom-icon-badges.herokuapp.com/badge/kooha-hotpink?&style=for-the-badge&logo=device-camera-video&logoColor=white"/>
-<img alt="Krita" src="https://img.shields.io/badge/krita-3BABFF?&style=for-the-badge&logo=krita&logoColor=white"/>
-<img alt="Lazygit" src="https://img.shields.io/badge/lazygit-darkgreen?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="LibreOffice" src="https://img.shields.io/badge/libreoffice-18A303?&style=for-the-badge&logo=libreoffice&logoColor=white"/>
+<a href="https://www.mozilla.org/firefox/new/"><img alt="Firefox" src="https://img.shields.io/badge/firefox-FF7139?&style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://www.genymotion.com/"><img alt="Genymotion" src="https://custom-icon-badges.demolab.com/badge/genymotion-E6195E?&style=for-the-badge&logo=geny&logoColor=white"/></a>
+<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://github.com/features/copilot"><img alt="GitHub Copilot" src="https://custom-icon-badges.demolab.com/badge/github%20copilot-292443?&style=for-the-badge&logo=copilot&logoColor=white"/></a>
+<a href="https://github.com/shiftkey/desktop"><img alt="GitHub Desktop" src="https://img.shields.io/badge/github%20desktop-rebeccapurple?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://help.gnome.org/users/gnome-boxes/stable/"><img alt="Gnome Boxes" src="https://custom-icon-badges.herokuapp.com/badge/gnome%20boxes-dimgray?&style=for-the-badge&logo=gnomeboxes&logoColor=white"/></a>
+<a href="https://insomnia.rest/"><img alt="Insomnia" src="https://img.shields.io/badge/insomnia-4000BF?&style=for-the-badge&logo=insomnia&logoColor=white"/></a>
+<a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-F37626?&style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+<a href="https://kdenlive.org/"><img alt="Kdenlive" src="https://img.shields.io/badge/kdenlive-527EB2?&style=for-the-badge&logo=kdenlive&logoColor=white"/></a>
+<a href="https://keepassxc.org/"><img alt="KeePassXC" src="https://img.shields.io/badge/keepassxc-6CAC4D?&style=for-the-badge&logo=keepassxc&logoColor=white"/></a>
+<a href="https://github.com/SeaDve/Kooha"><img alt="Kooha" src="https://custom-icon-badges.herokuapp.com/badge/kooha-hotpink?&style=for-the-badge&logo=device-camera-video&logoColor=white"/></a>
+<a href="https://krita.org/"><img alt="Krita" src="https://img.shields.io/badge/krita-3BABFF?&style=for-the-badge&logo=krita&logoColor=white"/></a>
+<a href="https://github.com/jesseduffield/lazygit"><img alt="Lazygit" src="https://img.shields.io/badge/lazygit-darkgreen?&style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://www.libreoffice.org/"><img alt="LibreOffice" src="https://img.shields.io/badge/libreoffice-18A303?&style=for-the-badge&logo=libreoffice&logoColor=white"/></a>
 <!-- <img alt="NoiseTorch" src="https://custom-icon-badges.herokuapp.com/badge/noisetorch-limegreen?&style=for-the-badge&logo=mic&logoColor=white"/> -->
-<img alt="Notion" src="https://img.shields.io/badge/notion-black?&style=for-the-badge&logo=notion&logoColor=white"/>
-<img alt="OnlyOffice" src="https://img.shields.io/badge/onlyoffice-444444?&style=for-the-badge&logo=onlyoffice&logoColor=white"/>
-<img alt="Photopea" src="https://img.shields.io/badge/photopea-18A497?&style=for-the-badge&logo=photopea&logoColor=white"/>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img alt="TabNine" src="https://custom-icon-badges.herokuapp.com/badge/tabnine-mediumvioletred?&style=for-the-badge&logo=tabnine-white&logoColor=white"/>
-<img alt="Terminator" src="https://img.shields.io/badge/terminator-red?&style=for-the-badge&logo=gnometerminal&logoColor=white"/>
-<img alt="Termux" src="https://custom-icon-badges.herokuapp.com/badge/termux-black?&style=for-the-badge&logo=terminal&logoColor=white"/>
-<img alt="Virt-Manager" src="https://custom-icon-badges.herokuapp.com/badge/virtmanager-darkred?&style=for-the-badge&logo=virtmanager&logoColor=white"/>
-<img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white"/>
-<!-- <img alt="MySQL" src="https://img.shields.io/badge/mysql-blue?&style=for-the-badge&logo=mysql&logoColor=white"/> -->
+<a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/notion-black?&style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://www.onlyoffice.com/"><img alt="OnlyOffice" src="https://img.shields.io/badge/onlyoffice-444444?&style=for-the-badge&logo=onlyoffice&logoColor=white"/></a>
+<a href="https://www.photopea.com/"><img alt="Photopea" src="https://img.shields.io/badge/photopea-18A497?&style=for-the-badge&logo=photopea&logoColor=white"/></a>
+<a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
+<!-- <a href=""><img alt="ScreenKey" src="https://custom-icon-badges.demolab.com/badge/screenkey-292443?&style=for-the-badge&logo=screenkey&logoColor=white"/></a> -->
+<a href="https://www.tabnine.com/"><img alt="TabNine" src="https://custom-icon-badges.herokuapp.com/badge/tabnine-mediumvioletred?&style=for-the-badge&logo=tabnine-white&logoColor=white"/></a>
+<a href="https://gnome-terminator.org/"><img alt="Terminator" src="https://img.shields.io/badge/terminator-red?&style=for-the-badge&logo=gnometerminal&logoColor=white"/></a>
+<a href="https://termux.dev"><img alt="Termux" src="https://custom-icon-badges.herokuapp.com/badge/termux-black?&style=for-the-badge&logo=terminal&logoColor=white"/></a>
+<a href="https://virt-manager.org/"><img alt="Virt-Manager" src="https://custom-icon-badges.herokuapp.com/badge/virtmanager-darkred?&style=for-the-badge&logo=virtmanager&logoColor=white"/></a>
+<a href="https://www.virtualbox.org/"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
+<a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/wireshark-0052FF?&style=for-the-badge&logo=wireshark&logoColor=white"/></a>
 <!-- <img alt="Wolfram Alpha" src="https://img.shields.io/badge/wolfram%20alpha-yellow?&style=for-the-badge&logo=wolfram&logoColor=white"/> -->
-<img alt="Zsh" src="https://img.shields.io/badge/zsh-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white"/>
+<a href="https://www.zsh.org/"><img alt="Zsh" src="https://img.shields.io/badge/zsh-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white"/></a>
 </p>
 
 ## 📊 Stats
@@ -189,7 +187,7 @@ Linux                    11 hrs 12 mins      ███████████�
 <p align="center">
 <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-	<img title="Activity Graph" alt="Ollyxs's activity" src="https://activity-graph.herokuapp.com/graph?username=Ollyxs&theme=redical&hide_border=true"/>
+	<img title="Activity Graph" alt="Ollyxs's activity" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ollyxs&theme=redical&hide_border=true"/>
 </a>
 </br>
 <img src="https://komarev.com/ghpvc/?username=ollyxs&style=for-the-badge"/>
