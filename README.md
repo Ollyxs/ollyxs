@@ -166,18 +166,17 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Bash                     18 mins             █████████████████████████   98.40 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/05/2023 18:38:25 UTC
+ Last Updated on 19/05/2023 18:38:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
