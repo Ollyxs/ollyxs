@@ -1,6 +1,5 @@
 <!-- ## Hi, I'm Ollyxs -->
 <p align="center">
-<a href="https://github.com/Ollyxs">
 <img title="Ollyxs" alt="Ollyxs" src="https://raw.githubusercontent.com/Ollyxs/ollyxs/main/name.gif"/>
 </a>
 </p>
@@ -68,6 +67,7 @@ You can find me on ...
 ### Databases
 <p>
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.sqlite.org"><img alt="SQLite" src="https://img.shields.io/badge/redis-DC382D?&style=for-the-badge&logo=redis&logoColor=white"/></a>
 <a href="https://www.sqlite.org"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white"/></a>
 </p>
 
@@ -75,8 +75,9 @@ You can find me on ...
 <p>
 <a href="https://www.anaconda.com/"><img alt="Anaconda" src="https://img.shields.io/badge/anaconda-44A833?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
 <a href="https://brave.com/"><img alt="Brave" src="https://img.shields.io/badge/brave-FB542B?&style=for-the-badge&logo=brave&logoColor=white"/></a>
+<a href="https://www.consul.io/"><img alt="Consul" src="https://img.shields.io/badge/consul-F24C53?&style=for-the-badge&logo=consul&logoColor=white"/></a>
 <a href="https://sqlitebrowser.org/"><img alt="DB Browser for SQLite" src="https://custom-icon-badges.herokuapp.com/badge/db%20browser-grey?&style=for-the-badge&logo=database&logoColor=white"/></a>
-<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker-0093d7?&style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/></a>
 <!-- <img alt="Día" src="https://custom-icon-badges.herokuapp.com/badge/dia-dimgray?&style=for-the-badge&logo=dia&logoColor=white"/> -->
 <a href="https://www.mozilla.org/firefox/new/"><img alt="Firefox" src="https://img.shields.io/badge/firefox-FF7139?&style=for-the-badge&logo=firefox&logoColor=white"/></a>
 <a href="https://www.genymotion.com/"><img alt="Genymotion" src="https://custom-icon-badges.demolab.com/badge/genymotion-E6195E?&style=for-the-badge&logo=geny&logoColor=white"/></a>
@@ -95,15 +96,18 @@ You can find me on ...
 <!-- <img alt="NoiseTorch" src="https://custom-icon-badges.herokuapp.com/badge/noisetorch-limegreen?&style=for-the-badge&logo=mic&logoColor=white"/> -->
 <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/notion-black?&style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://www.onlyoffice.com/"><img alt="OnlyOffice" src="https://img.shields.io/badge/onlyoffice-444444?&style=for-the-badge&logo=onlyoffice&logoColor=white"/></a>
+<a href="https://www.netacad.com/es/courses/packet-tracer"><img alt="Packet Tracer" src="https://custom-icon-badges.herokuapp.com/badge/packet%20tracer-02273A?&style=for-the-badge&logo=ptracer&logoColor=white"/></a>
 <a href="https://www.photopea.com/"><img alt="Photopea" src="https://img.shields.io/badge/photopea-18A497?&style=for-the-badge&logo=photopea&logoColor=white"/></a>
+<a href="https://www.portainer.io/"><img alt="Portainer" src="https://img.shields.io/badge/portainer-13BEF9?&style=for-the-badge&logo=portainer&logoColor=white"/></a>
 <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
 <!-- <a href=""><img alt="ScreenKey" src="https://custom-icon-badges.demolab.com/badge/screenkey-292443?&style=for-the-badge&logo=screenkey&logoColor=white"/></a> -->
 <a href="https://www.tabnine.com/"><img alt="TabNine" src="https://custom-icon-badges.herokuapp.com/badge/tabnine-mediumvioletred?&style=for-the-badge&logo=tabnine-white&logoColor=white"/></a>
 <a href="https://gnome-terminator.org/"><img alt="Terminator" src="https://img.shields.io/badge/terminator-red?&style=for-the-badge&logo=gnometerminal&logoColor=white"/></a>
 <a href="https://termux.dev"><img alt="Termux" src="https://custom-icon-badges.herokuapp.com/badge/termux-black?&style=for-the-badge&logo=terminal&logoColor=white"/></a>
+<a href="https://traefik.io/"><img alt="Traefik" src="https://img.shields.io/badge/traefik-24A1C1?&style=for-the-badge&logo=traefikproxy&logoColor=white"/></a>
 <a href="https://virt-manager.org/"><img alt="Virt-Manager" src="https://custom-icon-badges.herokuapp.com/badge/virtmanager-darkred?&style=for-the-badge&logo=virtmanager&logoColor=white"/></a>
 <a href="https://www.virtualbox.org/"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
-<a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/wireshark-0052FF?&style=for-the-badge&logo=wireshark&logoColor=white"/></a>
+<a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white"/></a>
 <!-- <img alt="Wolfram Alpha" src="https://img.shields.io/badge/wolfram%20alpha-yellow?&style=for-the-badge&logo=wolfram&logoColor=white"/> -->
 <a href="https://www.zsh.org/"><img alt="Zsh" src="https://img.shields.io/badge/zsh-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white"/></a>
 </p>
@@ -187,7 +191,7 @@ Linux                    6 hrs 28 mins       ███████████�
 <p align="center">
 <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-	<img title="Activity Graph" alt="Ollyxs's activity" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ollyxs&theme=redical&hide_border=true"/>
+	<img title="Activity Graph" alt="Ollyxs's activity" src="https://github-readme-activity-graph.vercel.app/graph?username=Ollyxs&theme=redical&hide_border=true"/>
 </a>
 </br>
 <img src="https://komarev.com/ghpvc/?username=ollyxs&style=for-the-badge"/>
