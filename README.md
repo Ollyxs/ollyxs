@@ -26,11 +26,11 @@ You can find me on ...
 <a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/java-DE711F?&style=for-the-badge&logo=java&logoColor=white"/></a>
 <a href="https://www.shellscript.sh/"><img alt="Shell Script" src="https://img.shields.io/badge/shell%20script-black?&style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="https://www.w3.org/Style/CSS/"><img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://lenguajecss.com/css/"><img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://www.vim.org/"><img alt="Vim Script" src="https://img.shields.io/badge/vim%20script-019733?&style=for-the-badge&logo=vim&logoColor=white"/></a>
 <a href="https://www.lua.org/"><img alt="Lua" src="https://img.shields.io/badge/lua-2C2D72?&style=for-the-badge&logo=lua&logoColor=white"/></a>
 <a href="https://www.cprogramming.com/"><img alt="C" src="https://img.shields.io/badge/c-A8B9CC?&style=for-the-badge&logo=c&logoColor=white"/></a>
-<a href=""><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?&style=for-the-badge&logo=database&logoColor=white"/></a>
+<a href="https://www.w3schools.com/sql/sql_intro.asp"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?&style=for-the-badge&logo=database&logoColor=white"/></a>
 <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/markdown-skyblue?&style=for-the-badge&logo=markdown&logoColor=white"/></a>
 </p>
 
@@ -67,7 +67,7 @@ You can find me on ...
 ### Databases
 <p>
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<a href="https://www.sqlite.org"><img alt="SQLite" src="https://img.shields.io/badge/redis-DC382D?&style=for-the-badge&logo=redis&logoColor=white"/></a>
+<a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/redis-DC382D?&style=for-the-badge&logo=redis&logoColor=white"/></a>
 <a href="https://www.sqlite.org"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white"/></a>
 </p>
 
@@ -109,6 +109,7 @@ You can find me on ...
 <a href="https://www.virtualbox.org/"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
 <a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white"/></a>
 <!-- <img alt="Wolfram Alpha" src="https://img.shields.io/badge/wolfram%20alpha-yellow?&style=for-the-badge&logo=wolfram&logoColor=white"/> -->
+<a href="https://www.zotero.org/"><img alt="Zotero" src="https://img.shields.io/badge/zotero-CC2936?&style=for-the-badge&logo=zotero&logoColor=white"/></a>
 <a href="https://www.zsh.org/"><img alt="Zsh" src="https://img.shields.io/badge/zsh-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white"/></a>
 </p>
 
@@ -131,9 +132,9 @@ You can find me on ...
 	<img title="Top languages by Repo" alt="Ollyxs's top languages by repos" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ollyxs&theme=radical"/>
 	<img title="Top languages by Commit" alt="Ollyxs's top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ollyxs&theme=radical"/>
 	<img title="Profile details" alt="Ollyxs's profile details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ollyxs&theme=radical"/>
-</a> -->
+</a>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
 	<img title="Readme Stats" alt="Ollyxs's stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ollyxs"/>
 </a> -->
 </p>
@@ -146,21 +147,21 @@ You can find me on ...
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-🌆 Daytime                195 commits         ██████████░░░░░░░░░░░░░░░   39.08 % 
-🌃 Evening                178 commits         █████████░░░░░░░░░░░░░░░░   35.67 % 
-🌙 Night                  99 commits          █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+🌆 Daytime                195 commits         ██████████░░░░░░░░░░░░░░░   39.16 % 
+🌃 Evening                178 commits         █████████░░░░░░░░░░░░░░░░   35.74 % 
+🌙 Night                  98 commits          █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Tuesday                  169 commits         ████████░░░░░░░░░░░░░░░░░   33.87 % 
-Wednesday                82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Thursday                 50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Saturday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Sunday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Monday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Tuesday                  169 commits         ████████░░░░░░░░░░░░░░░░░   33.94 % 
+Wednesday                82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Thursday                 49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Saturday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Sunday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 
 
@@ -170,21 +171,21 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Python                   5 hrs 39 mins       ██████████████████░░░░░░░   73.29 % 
-YAML                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Python                   4 hrs 51 mins       ███████████████████░░░░░░   75.03 % 
+YAML                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/06/2023 18:38:42 UTC
+ Last Updated on 31/05/2023 18:38:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
