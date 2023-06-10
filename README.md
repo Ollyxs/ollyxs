@@ -79,6 +79,7 @@ You can find me on ...
 <a href="https://sqlitebrowser.org/"><img alt="DB Browser for SQLite" src="https://custom-icon-badges.herokuapp.com/badge/db%20browser-grey?&style=for-the-badge&logo=database&logoColor=white"/></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/></a>
 <!-- <img alt="Día" src="https://custom-icon-badges.herokuapp.com/badge/dia-dimgray?&style=for-the-badge&logo=dia&logoColor=white"/> -->
+<a href="https://www.elastic.co/es/elasticsearch/"><img alt="Elasticsearch" src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/></a>
 <a href="https://www.mozilla.org/firefox/new/"><img alt="Firefox" src="https://img.shields.io/badge/firefox-FF7139?&style=for-the-badge&logo=firefox&logoColor=white"/></a>
 <a href="https://www.genymotion.com/"><img alt="Genymotion" src="https://custom-icon-badges.demolab.com/badge/genymotion-E6195E?&style=for-the-badge&logo=geny&logoColor=white"/></a>
 <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white"/></a>
