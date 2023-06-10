@@ -90,6 +90,7 @@ You can find me on ...
 <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-F37626?&style=for-the-badge&logo=jupyter&logoColor=white"/></a>
 <a href="https://kdenlive.org/"><img alt="Kdenlive" src="https://img.shields.io/badge/kdenlive-527EB2?&style=for-the-badge&logo=kdenlive&logoColor=white"/></a>
 <a href="https://keepassxc.org/"><img alt="KeePassXC" src="https://img.shields.io/badge/keepassxc-6CAC4D?&style=for-the-badge&logo=keepassxc&logoColor=white"/></a>
+<a href="https://www.elastic.co/es/kibana/"><img alt="Kibana" src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/></a>
 <a href="https://github.com/SeaDve/Kooha"><img alt="Kooha" src="https://custom-icon-badges.herokuapp.com/badge/kooha-hotpink?&style=for-the-badge&logo=device-camera-video&logoColor=white"/></a>
 <a href="https://krita.org/"><img alt="Krita" src="https://img.shields.io/badge/krita-3BABFF?&style=for-the-badge&logo=krita&logoColor=white"/></a>
 <a href="https://github.com/jesseduffield/lazygit"><img alt="Lazygit" src="https://img.shields.io/badge/lazygit-darkgreen?&style=for-the-badge&logo=git&logoColor=white"/></a>
