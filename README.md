@@ -1,28 +1,30 @@
 <!-- ## Hi, I'm Ollyxs -->
+
 <p align="center">
 <img title="Ollyxs" alt="Ollyxs" src="https://raw.githubusercontent.com/Ollyxs/ollyxs/main/name.gif"/>
 </a>
 </p>
 
-## Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## Hello, folks! `<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">`
 
 My name is Lucas Ollarce and I'm a computer science engineer student. I'm from Argentina, living in San Rafael, Mendoza.
 
 You can find me on ...
 
 <p align="center">
-	<a href="https://twitter.com/Luk5Ollarce"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-blue?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-	<a href="https://instagram.com/ollyxss"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/instagram-FF0060?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-	<a href="https://www.youtube.com/c/Ollyxs"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/youtube-F20000?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+	<a href="https://twitter.com/ollyxss"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-000000?&style=for-the-badge&logo=x&logoColor=white"></a>
+	<a href="https://instagram.com/ollyxss"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+	<a href="https://www.youtube.com/c/Ollyxs"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/youtube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 	<a href="https://steamcommunity.com/id/Ollyxs/"><img alt="Steam" title="Steam" src="https://img.shields.io/badge/steam-1A4769?&style=for-the-badge&logo=steam&logoColor=white"></a>
-	<a href="https://discordapp.com/users/366099775218515981"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/discord-5564DE?&style=for-the-badge&logo=discord&logoColor=white"></a>
+	<a href="https://discordapp.com/users/366099775218515981"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 ## 🛠️ Technologies & Tools
 
 ### Lenguage skills
+
 <p>
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/java-DE711F?&style=for-the-badge&logo=java&logoColor=white"/></a>
 <a href="https://www.shellscript.sh/"><img alt="Shell Script" src="https://img.shields.io/badge/shell%20script-black?&style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -35,6 +37,7 @@ You can find me on ...
 </p>
 
 ### OS
+
 <p>
 <a href="https://pop.system76.com/"><img alt="Pop!OS" src="https://img.shields.io/badge/pop!os-48B9C7?&style=for-the-badge&logo=pop!_os&logoColor=white"/></a>
 <a href="https://archlinux.org/"><img alt="ArchLinux" src="https://img.shields.io/badge/archlinux-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white"/></a>
@@ -43,6 +46,7 @@ You can find me on ...
 </p>
 
 ### IDEs
+
 <p>
 <a href="https://neovim.io/"><img alt="Neovim" src="https://img.shields.io/badge/neovim-57A143?&style=for-the-badge&logo=neovim&logoColor=white"/></a>
 <a href="https://www.jetbrains.com/idea/"><img alt="Intellij IDEA" src="https://img.shields.io/badge/intellij-mediumorchid?&style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
@@ -54,6 +58,7 @@ You can find me on ...
 </p>
 
 ### Framewokrs and libraries
+
 <p>
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 <a href="https://flask.palletsprojects.com"><img alt="Flask" src="https://img.shields.io/badge/flask-black?&style=for-the-badge&logo=flask&logoColor=white"/></a>
@@ -65,6 +70,7 @@ You can find me on ...
 </p>
 
 ### Databases
+
 <p>
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/redis-DC382D?&style=for-the-badge&logo=redis&logoColor=white"/></a>
@@ -72,8 +78,10 @@ You can find me on ...
 </p>
 
 ### Sotfware and tools
+
 <p>
 <a href="https://www.anaconda.com/"><img alt="Anaconda" src="https://img.shields.io/badge/anaconda-44A833?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
+<a href="https://azure.microsoft.com/"><img alt="Azure" src="https://img.shields.io/badge/azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
 <a href="https://brave.com/"><img alt="Brave" src="https://img.shields.io/badge/brave-FB542B?&style=for-the-badge&logo=brave&logoColor=white"/></a>
 <a href="https://www.consul.io/"><img alt="Consul" src="https://img.shields.io/badge/consul-F24C53?&style=for-the-badge&logo=consul&logoColor=white"/></a>
 <a href="https://sqlitebrowser.org/"><img alt="DB Browser for SQLite" src="https://custom-icon-badges.herokuapp.com/badge/db%20browser-grey?&style=for-the-badge&logo=database&logoColor=white"/></a>
@@ -83,9 +91,11 @@ You can find me on ...
 <a href="https://www.mozilla.org/firefox/new/"><img alt="Firefox" src="https://img.shields.io/badge/firefox-FF7139?&style=for-the-badge&logo=firefox&logoColor=white"/></a>
 <a href="https://www.genymotion.com/"><img alt="Genymotion" src="https://custom-icon-badges.demolab.com/badge/genymotion-E6195E?&style=for-the-badge&logo=geny&logoColor=white"/></a>
 <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/github_actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white"/></a>
 <a href="https://github.com/features/copilot"><img alt="GitHub Copilot" src="https://custom-icon-badges.demolab.com/badge/github%20copilot-292443?&style=for-the-badge&logo=copilot&logoColor=white"/></a>
 <a href="https://github.com/shiftkey/desktop"><img alt="GitHub Desktop" src="https://img.shields.io/badge/github%20desktop-rebeccapurple?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://help.gnome.org/users/gnome-boxes/stable/"><img alt="Gnome Boxes" src="https://custom-icon-badges.herokuapp.com/badge/gnome%20boxes-dimgray?&style=for-the-badge&logo=gnomeboxes&logoColor=white"/></a>
+<a href="https://colab.google/"><img alt="Google Colab" src="https://img.shields.io/badge/google_colab-F9AB00?&style=for-the-badge&logo=googlecolab&logoColor=white"/></a>
 <a href="https://insomnia.rest/"><img alt="Insomnia" src="https://img.shields.io/badge/insomnia-4000BF?&style=for-the-badge&logo=insomnia&logoColor=white"/></a>
 <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-F37626?&style=for-the-badge&logo=jupyter&logoColor=white"/></a>
 <a href="https://kdenlive.org/"><img alt="Kdenlive" src="https://img.shields.io/badge/kdenlive-527EB2?&style=for-the-badge&logo=kdenlive&logoColor=white"/></a>
@@ -97,6 +107,7 @@ You can find me on ...
 <a href="https://www.libreoffice.org/"><img alt="LibreOffice" src="https://img.shields.io/badge/libreoffice-18A303?&style=for-the-badge&logo=libreoffice&logoColor=white"/></a>
 <!-- <img alt="NoiseTorch" src="https://custom-icon-badges.herokuapp.com/badge/noisetorch-limegreen?&style=for-the-badge&logo=mic&logoColor=white"/> -->
 <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/notion-black?&style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://obsproject.com/"><img alt="OBS" src="https://img.shields.io/badge/obs_studio-302E31?&style=for-the-badge&logo=obsstudio&logoColor=white"/></a>
 <a href="https://www.onlyoffice.com/"><img alt="OnlyOffice" src="https://img.shields.io/badge/onlyoffice-444444?&style=for-the-badge&logo=onlyoffice&logoColor=white"/></a>
 <a href="https://www.netacad.com/es/courses/packet-tracer"><img alt="Packet Tracer" src="https://custom-icon-badges.herokuapp.com/badge/packet%20tracer-02273A?&style=for-the-badge&logo=ptracer&logoColor=white"/></a>
 <a href="https://www.photopea.com/"><img alt="Photopea" src="https://img.shields.io/badge/photopea-18A497?&style=for-the-badge&logo=photopea&logoColor=white"/></a>
@@ -139,6 +150,7 @@ You can find me on ...
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img title="Readme Stats" alt="Ollyxs's stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ollyxs"/>
 </a> -->
+
 </p>
 </details>
 
@@ -146,7 +158,8 @@ You can find me on ...
 <summary>📈 Wakatime </summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
@@ -154,7 +167,8 @@ You can find me on ...
 🌃 Evening                169 commits         █████████░░░░░░░░░░░░░░░░   35.88 % 
 🌙 Night                  99 commits          █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
 Monday                   80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
@@ -166,8 +180,7 @@ Saturday                 40 commits          ██░░░░░░░░░�
 Sunday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
@@ -187,8 +200,8 @@ VS Code                  15 mins             █░░░░░░░░░░�
 Linux                    7 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
-
  Last Updated on 04/10/2023 18:39:36 UTC
+
 <!--END_SECTION:waka-->
 
 </details>
@@ -200,7 +213,6 @@ Linux                    7 hrs 47 mins       ███████████�
 </br>
 <img src="https://komarev.com/ghpvc/?username=ollyxs&style=for-the-badge"/>
 </p>
-
 
 <!--
 -
