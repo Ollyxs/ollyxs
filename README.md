@@ -1,11 +1,12 @@
 <!-- ## Hi, I'm Ollyxs -->
 
 <p align="center">
+<a>
 <img title="Ollyxs" alt="Ollyxs" src="https://raw.githubusercontent.com/Ollyxs/ollyxs/main/name.gif"/>
 </a>
 </p>
 
-## Hello, folks! `<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">`
+## Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 My name is Lucas Ollarce and I'm a computer science engineer student. I'm from Argentina, living in San Rafael, Mendoza.
 
