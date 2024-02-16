@@ -186,18 +186,17 @@ Sunday                   25 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Rust                     37 mins             ████████████████████████░   94.88 % 
-Lua                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/02/2024 18:38:12 UTC
+ Last Updated on 16/02/2024 18:38:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
