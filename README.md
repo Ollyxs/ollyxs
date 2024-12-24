@@ -186,18 +186,17 @@ Sunday                   54 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Markdown                 0 secs              ██████████████████░░░░░░░   72.50 % 
-Bash                     0 secs              ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Android                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/12/2024 18:44:43 UTC
+ Last Updated on 24/12/2024 18:44:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
