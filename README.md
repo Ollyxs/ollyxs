@@ -186,18 +186,17 @@ Sunday                   54 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Lua                      5 mins              ████████████████████████░   97.20 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/09/2025 18:47:59 UTC
+ Last Updated on 02/09/2025 18:48:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
