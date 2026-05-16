@@ -159,8 +159,44 @@ You can find me on ...
 <summary>📈 Wakatime </summary>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 15/05/2026 20:04:06 UTC
+```text
+🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+🌆 Daytime                496 commits         ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌃 Evening                397 commits         ████████░░░░░░░░░░░░░░░░░   31.06 % 
+🌙 Night                  254 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   185 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Tuesday                  271 commits         █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Wednesday                283 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Thursday                 205 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Friday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Saturday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Sunday                   70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Argentina/Buenos_Aires
+
+💬 Programming Languages: 
+Text                     10 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Neovim                   10 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    10 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 19:41:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
