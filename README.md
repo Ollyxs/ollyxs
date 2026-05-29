@@ -159,8 +159,44 @@ You can find me on ...
 <summary>📈 Wakatime </summary>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 28/05/2026 20:57:33 UTC
+```text
+🌞 Morning                131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+🌆 Daytime                516 commits         ██████████░░░░░░░░░░░░░░░   38.80 % 
+🌃 Evening                403 commits         ████████░░░░░░░░░░░░░░░░░   30.30 % 
+🌙 Night                  280 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Tuesday                  273 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Wednesday                285 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Thursday                 215 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Friday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Saturday                 129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Sunday                   81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Argentina/Buenos_Aires
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 29/05/2026 20:59:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
